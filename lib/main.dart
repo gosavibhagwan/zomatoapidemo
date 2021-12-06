@@ -4,7 +4,7 @@ import 'package:flutter/rendering.dart';
 // import 'package:flutter/services.dart';
 import 'dart:async';
 import 'package:http/http.dart' as http;
-// import 'package:geolocator/geolocator.dart';
+import 'package:geolocator/geolocator.dart';
 // import 'package:flutter_config/flutter_config.dart';
 //import 'package:smooth_star_rating/smooth_star_rating.dart';
 
@@ -36,8 +36,8 @@ class HomePageState extends State<HomePage> {
     // if (isOffline == true) {
 
     // } else {
-    // final position = await Geolocator()
-    //     .getCurrentPosition(desiredAccuracy: LocationAccuracy.high);
+    final position = await Geolocator()
+        .getCurrentPosition(desiredAccuracy: LocationAccuracy.high);
     url =
         "https://developers.zomato.com/api/v2.1/search?lat=${position.latitude}&lon=${position.longitude}";
 
@@ -46,16 +46,16 @@ class HomePageState extends State<HomePage> {
       "user-key": "6e122059d19277d79f8308ff9ad70263"
     });
 
-    //   print(response.body);
+    //print(response.body);
 
-    // if (response.body == '') {
-    //   _finalresponse = await DefaultAssetBundle.of(context)
-    //       .loadString('assets/restaurants1.json');
-    // } else {
-    //   _finalresponse = response.body;
-    // }
-    _finalresponse = await DefaultAssetBundle.of(context)
-        .loadString('assets/restaurants1.json');
+    if (response.body == '') {
+      _finalresponse = await DefaultAssetBundle.of(context)
+          .loadString('assets/restaurants1.json');
+    } else {
+      _finalresponse = response.body;
+    }
+    // _finalresponse = await DefaultAssetBundle.of(context)
+    //     .loadString('assets/restaurants1.json');
     setState(() {
       var convertDataToJson = json.decode(_finalresponse);
       data = convertDataToJson["restaurants"];
