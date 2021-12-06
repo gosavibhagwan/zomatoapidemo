@@ -1,0 +1,2066 @@
+{
+    "results_found": 1470,
+    "results_start": 0,
+    "results_shown": 20,
+    "restaurants": [
+      {
+        "restaurant": {
+          "R": {
+            "has_menu_status": {
+              "delivery": -1,
+              "takeaway": -1
+            },
+            "res_id": 18878725,
+            "is_grocery_store": false
+          },
+          "apikey": "6e122059d19277d79f8308ff9ad70263",
+          "id": "18878725",
+          "name": "CFC Shalimar Family Restaurant",
+          "url": "https://www.zomato.com/aurangabad/cfc-shalimar-family-restaurant-jaswantpura?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "location": {
+            "address": "Trimurti Housing Society, Near Kat Kat Gate, Jaswantpura, Aurangabad",
+            "locality": "Jaswantpura",
+            "city": "Aurangabad",
+            "city_id": 25,
+            "latitude": "19.8932350000",
+            "longitude": "75.3478370000",
+            "zipcode": "",
+            "country_id": 1,
+            "locality_verbose": "Jaswantpura, Aurangabad"
+          },
+          "switch_to_order_menu": 0,
+          "cuisines": "North Indian, Chinese, Biryani, Mughlai",
+          "timings": "10 AM to 11 PM",
+          "average_cost_for_two": 350,
+          "price_range": 2,
+          "currency": "Rs.",
+          "highlights": [
+            "Delivery",
+            "Takeaway Available",
+            "Cash"
+          ],
+          "offers": [],
+          "opentable_support": 0,
+          "is_zomato_book_res": 0,
+          "mezzo_provider": "OTHER",
+          "is_book_form_web_view": 0,
+          "book_form_web_view_url": "",
+          "book_again_url": "",
+          "thumb": "",
+          "user_rating": {
+            "aggregate_rating": "3.7",
+            "rating_text": "Good",
+            "rating_color": "9ACD32",
+            "rating_obj": {
+              "title": {
+                "text": "3.7"
+              },
+              "bg_color": {
+                "type": "lime",
+                "tint": "600"
+              }
+            },
+            "votes": 17229
+          },
+          "all_reviews_count": 85,
+          "photos_url": "https://www.zomato.com/aurangabad/cfc-shalimar-family-restaurant-jaswantpura/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+          "photo_count": 2,
+          "menu_url": "https://www.zomato.com/aurangabad/cfc-shalimar-family-restaurant-jaswantpura/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+          "featured_image": "",
+          "has_online_delivery": 1,
+          "is_delivering_now": 0,
+          "store_type": "",
+          "include_bogo_offers": true,
+          "deeplink": "zomato://restaurant/18878725",
+          "is_table_reservation_supported": 0,
+          "has_table_booking": 0,
+          "events_url": "https://www.zomato.com/aurangabad/cfc-shalimar-family-restaurant-jaswantpura/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "phone_numbers": "+91 7276533335",
+          "all_reviews": {
+            "reviews": [
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              }
+            ]
+          },
+          "establishment": [
+            "Casual Dining"
+          ],
+          "establishment_types": []
+        }
+      },
+      {
+        "restaurant": {
+          "R": {
+            "has_menu_status": {
+              "delivery": 1,
+              "takeaway": -1
+            },
+            "res_id": 2500685,
+            "is_grocery_store": false
+          },
+          "apikey": "6e122059d19277d79f8308ff9ad70263",
+          "id": "2500685",
+          "name": "Uttam Mithai Bhandar",
+          "url": "https://www.zomato.com/aurangabad/uttam-mithai-bhandar-shahgunj?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "location": {
+            "address": "Machali Khadak, Shahgunj, Aurangabad",
+            "locality": "Shahgunj",
+            "city": "Aurangabad",
+            "city_id": 25,
+            "latitude": "19.8863380000",
+            "longitude": "75.3303360000",
+            "zipcode": "",
+            "country_id": 1,
+            "locality_verbose": "Shahgunj, Aurangabad"
+          },
+          "switch_to_order_menu": 0,
+          "cuisines": "Mithai, Street Food",
+          "timings": "11 AM to 11 PM",
+          "average_cost_for_two": 250,
+          "price_range": 1,
+          "currency": "Rs.",
+          "highlights": [
+            "Delivery",
+            "Cash",
+            "Takeaway Available",
+            "Indoor Seating",
+            "Pure Veg",
+            "Desserts and Bakes"
+          ],
+          "offers": [],
+          "opentable_support": 0,
+          "is_zomato_book_res": 0,
+          "mezzo_provider": "OTHER",
+          "is_book_form_web_view": 0,
+          "book_form_web_view_url": "",
+          "book_again_url": "",
+          "thumb": "https://b.zmtcdn.com/data/pictures/5/2500685/5dc88f4440dd0be89ea8c472325b2dc0.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+          "user_rating": {
+            "aggregate_rating": "4.3",
+            "rating_text": "Very Good",
+            "rating_color": "5BA829",
+            "rating_obj": {
+              "title": {
+                "text": "4.3"
+              },
+              "bg_color": {
+                "type": "lime",
+                "tint": "700"
+              }
+            },
+            "votes": 6986
+          },
+          "all_reviews_count": 49,
+          "photos_url": "https://www.zomato.com/aurangabad/uttam-mithai-bhandar-shahgunj/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+          "photo_count": 10,
+          "menu_url": "https://www.zomato.com/aurangabad/uttam-mithai-bhandar-shahgunj/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+          "featured_image": "https://b.zmtcdn.com/data/pictures/5/2500685/5dc88f4440dd0be89ea8c472325b2dc0.jpg",
+          "has_online_delivery": 1,
+          "is_delivering_now": 1,
+          "store_type": "",
+          "include_bogo_offers": true,
+          "deeplink": "zomato://restaurant/2500685",
+          "order_url": "https://www.zomato.com/aurangabad/uttam-mithai-bhandar-shahgunj/order?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "order_deeplink": "",
+          "is_table_reservation_supported": 0,
+          "has_table_booking": 0,
+          "events_url": "https://www.zomato.com/aurangabad/uttam-mithai-bhandar-shahgunj/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "phone_numbers": "0240 2337364, +91 9422706875",
+          "all_reviews": {
+            "reviews": [
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              }
+            ]
+          },
+          "establishment": [
+            "Sweet Shop"
+          ],
+          "establishment_types": []
+        }
+      },
+      {
+        "restaurant": {
+          "R": {
+            "has_menu_status": {
+              "delivery": -1,
+              "takeaway": -1
+            },
+            "res_id": 2500135
+          },
+          "apikey": "6e122059d19277d79f8308ff9ad70263",
+          "id": "2500135",
+          "name": "Domino's Pizza",
+          "url": "https://www.zomato.com/aurangabad/dominos-pizza-nirala-bazar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "location": {
+            "address": "Tapadia Plaza, Tapadia Circle, Maljipura, New Samarth Nagar, Nirala Bazar, Aurangabad",
+            "locality": "Nirala Bazar",
+            "city": "Aurangabad",
+            "city_id": 25,
+            "latitude": "19.8799900000",
+            "longitude": "75.3234800000",
+            "zipcode": "",
+            "country_id": 1,
+            "locality_verbose": "Nirala Bazar, Aurangabad"
+          },
+          "switch_to_order_menu": 0,
+          "cuisines": "Pizza, Fast Food",
+          "timings": "10:57 AM to 11 PM",
+          "average_cost_for_two": 400,
+          "price_range": 2,
+          "currency": "Rs.",
+          "highlights": [
+            "Dinner",
+            "Delivery",
+            "Lunch",
+            "Credit Card",
+            "Indoor Seating",
+            "Air Conditioned"
+          ],
+          "offers": [],
+          "opentable_support": 0,
+          "is_zomato_book_res": 0,
+          "mezzo_provider": "OTHER",
+          "is_book_form_web_view": 0,
+          "book_form_web_view_url": "",
+          "book_again_url": "",
+          "thumb": "https://b.zmtcdn.com/data/pictures/9/2500019/5f365e08c5c1ed8c0096f840a5eecf9b.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+          "user_rating": {
+            "aggregate_rating": "4.2",
+            "rating_text": "Very Good",
+            "rating_color": "5BA829",
+            "rating_obj": {
+              "title": {
+                "text": "4.2"
+              },
+              "bg_color": {
+                "type": "lime",
+                "tint": "700"
+              }
+            },
+            "votes": 2932
+          },
+          "all_reviews_count": 50,
+          "photos_url": "https://www.zomato.com/aurangabad/dominos-pizza-nirala-bazar/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+          "photo_count": 56,
+          "menu_url": "https://www.zomato.com/aurangabad/dominos-pizza-nirala-bazar/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+          "featured_image": "https://b.zmtcdn.com/data/pictures/9/2500019/5f365e08c5c1ed8c0096f840a5eecf9b.jpg",
+          "has_online_delivery": 0,
+          "is_delivering_now": 0,
+          "store_type": "",
+          "include_bogo_offers": true,
+          "deeplink": "zomato://restaurant/2500135",
+          "is_table_reservation_supported": 0,
+          "has_table_booking": 0,
+          "events_url": "https://www.zomato.com/aurangabad/dominos-pizza-nirala-bazar/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "phone_numbers": "0240 6649333, 18602100000",
+          "all_reviews": {
+            "reviews": [
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              }
+            ]
+          },
+          "establishment": [
+            "Quick Bites"
+          ],
+          "establishment_types": []
+        }
+      },
+      {
+        "restaurant": {
+          "R": {
+            "has_menu_status": {
+              "delivery": -1,
+              "takeaway": -1
+            },
+            "res_id": 2500123,
+            "is_grocery_store": false
+          },
+          "apikey": "6e122059d19277d79f8308ff9ad70263",
+          "id": "2500123",
+          "name": "Great Sagar Restaurant",
+          "url": "https://www.zomato.com/aurangabad/great-sagar-restaurant-shahgunj?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "location": {
+            "address": "Near Bhadkal Gate, VIP Road, Shahgunj, Aurangabad",
+            "locality": "Shahgunj",
+            "city": "Aurangabad",
+            "city_id": 25,
+            "latitude": "19.8887160000",
+            "longitude": "75.3214610000",
+            "zipcode": "",
+            "country_id": 1,
+            "locality_verbose": "Shahgunj, Aurangabad"
+          },
+          "switch_to_order_menu": 0,
+          "cuisines": "Chinese, Fast Food, Beverages, Desserts, Ice Cream, Seafood",
+          "timings": "12 Noon to 11 PM",
+          "average_cost_for_two": 600,
+          "price_range": 2,
+          "currency": "Rs.",
+          "highlights": [
+            "Dinner",
+            "Credit Card",
+            "Lunch",
+            "Delivery",
+            "Indoor Seating",
+            "Axis Bank - Dining Delights",
+            "Air Conditioned"
+          ],
+          "offers": [],
+          "opentable_support": 0,
+          "is_zomato_book_res": 0,
+          "mezzo_provider": "OTHER",
+          "is_book_form_web_view": 0,
+          "book_form_web_view_url": "",
+          "book_again_url": "",
+          "thumb": "https://b.zmtcdn.com/data/pictures/3/2500123/f84e89bcb8877dee99d27b6e1c25739b.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+          "user_rating": {
+            "aggregate_rating": "4.3",
+            "rating_text": "Very Good",
+            "rating_color": "5BA829",
+            "rating_obj": {
+              "title": {
+                "text": "4.3"
+              },
+              "bg_color": {
+                "type": "lime",
+                "tint": "700"
+              }
+            },
+            "votes": 4518
+          },
+          "all_reviews_count": 120,
+          "photos_url": "https://www.zomato.com/aurangabad/great-sagar-restaurant-shahgunj/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+          "photo_count": 88,
+          "menu_url": "https://www.zomato.com/aurangabad/great-sagar-restaurant-shahgunj/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+          "featured_image": "https://b.zmtcdn.com/data/pictures/3/2500123/f84e89bcb8877dee99d27b6e1c25739b.jpg",
+          "has_online_delivery": 1,
+          "is_delivering_now": 0,
+          "store_type": "",
+          "include_bogo_offers": true,
+          "deeplink": "zomato://restaurant/2500123",
+          "is_table_reservation_supported": 0,
+          "has_table_booking": 0,
+          "events_url": "https://www.zomato.com/aurangabad/great-sagar-restaurant-shahgunj/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "phone_numbers": "+91 9595424296",
+          "all_reviews": {
+            "reviews": [
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              }
+            ]
+          },
+          "establishment": [
+            "Casual Dining"
+          ],
+          "establishment_types": []
+        }
+      },
+      {
+        "restaurant": {
+          "R": {
+            "has_menu_status": {
+              "delivery": -1,
+              "takeaway": -1
+            },
+            "res_id": 18529208,
+            "is_grocery_store": false
+          },
+          "apikey": "6e122059d19277d79f8308ff9ad70263",
+          "id": "18529208",
+          "name": "Amigos Kitchen",
+          "url": "https://www.zomato.com/aurangabad/amigos-kitchen-cidco?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "location": {
+            "address": "Plot 19, MGM Road, Behind Lokmat Bhavan, Town Centre, CIDCO, Aurangabad",
+            "locality": "CIDCO",
+            "city": "Aurangabad",
+            "city_id": 25,
+            "latitude": "19.8771164475",
+            "longitude": "75.3586973995",
+            "zipcode": "431003",
+            "country_id": 1,
+            "locality_verbose": "CIDCO, Aurangabad"
+          },
+          "switch_to_order_menu": 0,
+          "cuisines": "North Indian, Chinese, Mughlai, Sandwich, Beverages",
+          "timings": "12 Noon to 11 PM",
+          "average_cost_for_two": 500,
+          "price_range": 2,
+          "currency": "Rs.",
+          "highlights": [
+            "Credit Card",
+            "Lunch",
+            "Delivery",
+            "Takeaway Available",
+            "No Alcohol Available",
+            "Dinner",
+            "Cash",
+            "Indoor Seating",
+            "Air Conditioned",
+            "All Day Breakfast",
+            "Outdoor Seating"
+          ],
+          "offers": [],
+          "opentable_support": 0,
+          "is_zomato_book_res": 0,
+          "mezzo_provider": "OTHER",
+          "is_book_form_web_view": 0,
+          "book_form_web_view_url": "",
+          "book_again_url": "",
+          "thumb": "https://b.zmtcdn.com/data/pictures/8/18529208/98e2418430fb333150455b1d5e328ef3.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+          "user_rating": {
+            "aggregate_rating": "4.2",
+            "rating_text": "Very Good",
+            "rating_color": "5BA829",
+            "rating_obj": {
+              "title": {
+                "text": "4.2"
+              },
+              "bg_color": {
+                "type": "lime",
+                "tint": "700"
+              }
+            },
+            "votes": 13381
+          },
+          "all_reviews_count": 249,
+          "photos_url": "https://www.zomato.com/aurangabad/amigos-kitchen-cidco/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+          "photo_count": 179,
+          "menu_url": "https://www.zomato.com/aurangabad/amigos-kitchen-cidco/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+          "featured_image": "https://b.zmtcdn.com/data/pictures/8/18529208/98e2418430fb333150455b1d5e328ef3.jpg",
+          "has_online_delivery": 1,
+          "is_delivering_now": 0,
+          "store_type": "",
+          "include_bogo_offers": true,
+          "deeplink": "zomato://restaurant/18529208",
+          "is_table_reservation_supported": 0,
+          "has_table_booking": 0,
+          "events_url": "https://www.zomato.com/aurangabad/amigos-kitchen-cidco/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "phone_numbers": "+91 9823788884, +91 8087676900",
+          "all_reviews": {
+            "reviews": [
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              }
+            ]
+          },
+          "establishment": [
+            "Casual Dining"
+          ],
+          "establishment_types": []
+        }
+      },
+      {
+        "restaurant": {
+          "R": {
+            "has_menu_status": {
+              "delivery": -1,
+              "takeaway": -1
+            },
+            "res_id": 2500146,
+            "is_grocery_store": false
+          },
+          "apikey": "6e122059d19277d79f8308ff9ad70263",
+          "id": "2500146",
+          "name": "Sai Prasad",
+          "url": "https://www.zomato.com/aurangabad/sai-prasad-sindhi-colony?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "location": {
+            "address": "81, Mondha Naka, Vishnu Nagar, Sindhi Colony, Jalna Road, Aurangabad",
+            "locality": "Sindhi Colony",
+            "city": "Aurangabad",
+            "city_id": 25,
+            "latitude": "19.8754380875",
+            "longitude": "75.3398773447",
+            "zipcode": "",
+            "country_id": 1,
+            "locality_verbose": "Sindhi Colony, Aurangabad"
+          },
+          "switch_to_order_menu": 0,
+          "cuisines": "North Indian, Chinese",
+          "timings": "11 AM to 10:30 PM (Mon-Sun)",
+          "average_cost_for_two": 300,
+          "price_range": 1,
+          "currency": "Rs.",
+          "highlights": [
+            "Delivery",
+            "Lunch",
+            "Debit Card",
+            "Credit Card",
+            "Cash",
+            "Dinner",
+            "Indoor Seating",
+            "Pure Veg"
+          ],
+          "offers": [],
+          "opentable_support": 0,
+          "is_zomato_book_res": 0,
+          "mezzo_provider": "OTHER",
+          "is_book_form_web_view": 0,
+          "book_form_web_view_url": "",
+          "book_again_url": "",
+          "thumb": "https://b.zmtcdn.com/data/pictures/6/2500146/6abcf051c2b4b79dbcfae7d4c08070cc.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+          "user_rating": {
+            "aggregate_rating": "4.3",
+            "rating_text": "Very Good",
+            "rating_color": "5BA829",
+            "rating_obj": {
+              "title": {
+                "text": "4.3"
+              },
+              "bg_color": {
+                "type": "lime",
+                "tint": "700"
+              }
+            },
+            "votes": 5841
+          },
+          "all_reviews_count": 63,
+          "photos_url": "https://www.zomato.com/aurangabad/sai-prasad-sindhi-colony/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+          "photo_count": 7,
+          "menu_url": "https://www.zomato.com/aurangabad/sai-prasad-sindhi-colony/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+          "featured_image": "https://b.zmtcdn.com/data/pictures/6/2500146/6abcf051c2b4b79dbcfae7d4c08070cc.jpg",
+          "has_online_delivery": 1,
+          "is_delivering_now": 0,
+          "store_type": "",
+          "include_bogo_offers": true,
+          "deeplink": "zomato://restaurant/2500146",
+          "is_table_reservation_supported": 0,
+          "has_table_booking": 0,
+          "events_url": "https://www.zomato.com/aurangabad/sai-prasad-sindhi-colony/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "phone_numbers": "+91 9764656369",
+          "all_reviews": {
+            "reviews": [
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              }
+            ]
+          },
+          "establishment": [
+            "Quick Bites"
+          ],
+          "establishment_types": []
+        }
+      },
+      {
+        "restaurant": {
+          "R": {
+            "has_menu_status": {
+              "delivery": -1,
+              "takeaway": -1
+            },
+            "res_id": 2500134
+          },
+          "apikey": "6e122059d19277d79f8308ff9ad70263",
+          "id": "2500134",
+          "name": "Domino's Pizza",
+          "url": "https://www.zomato.com/aurangabad/dominos-pizza-cidco?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "location": {
+            "address": "8, Upper Ground Floor, City Pride Commercial Complex, Kali Bawdi, Jalna Road, CIDCO, Aurangabad",
+            "locality": "CIDCO",
+            "city": "Aurangabad",
+            "city_id": 25,
+            "latitude": "19.8723906300",
+            "longitude": "75.3232419500",
+            "zipcode": "",
+            "country_id": 1,
+            "locality_verbose": "CIDCO, Aurangabad"
+          },
+          "switch_to_order_menu": 0,
+          "cuisines": "Pizza, Fast Food",
+          "timings": "10:57 AM to 11 PM",
+          "average_cost_for_two": 400,
+          "price_range": 2,
+          "currency": "Rs.",
+          "highlights": [
+            "Dinner",
+            "Delivery",
+            "Lunch",
+            "Credit Card",
+            "Indoor Seating",
+            "Air Conditioned"
+          ],
+          "offers": [],
+          "opentable_support": 0,
+          "is_zomato_book_res": 0,
+          "mezzo_provider": "OTHER",
+          "is_book_form_web_view": 0,
+          "book_form_web_view_url": "",
+          "book_again_url": "",
+          "thumb": "https://b.zmtcdn.com/data/pictures/9/2500019/5f365e08c5c1ed8c0096f840a5eecf9b.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+          "user_rating": {
+            "aggregate_rating": "4.3",
+            "rating_text": "Very Good",
+            "rating_color": "5BA829",
+            "rating_obj": {
+              "title": {
+                "text": "4.3"
+              },
+              "bg_color": {
+                "type": "lime",
+                "tint": "700"
+              }
+            },
+            "votes": 3624
+          },
+          "all_reviews_count": 36,
+          "photos_url": "https://www.zomato.com/aurangabad/dominos-pizza-cidco/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+          "photo_count": 59,
+          "menu_url": "https://www.zomato.com/aurangabad/dominos-pizza-cidco/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+          "featured_image": "https://b.zmtcdn.com/data/pictures/9/2500019/5f365e08c5c1ed8c0096f840a5eecf9b.jpg",
+          "has_online_delivery": 0,
+          "is_delivering_now": 0,
+          "store_type": "",
+          "include_bogo_offers": true,
+          "deeplink": "zomato://restaurant/2500134",
+          "is_table_reservation_supported": 0,
+          "has_table_booking": 0,
+          "events_url": "https://www.zomato.com/aurangabad/dominos-pizza-cidco/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "phone_numbers": "0240 2364200, 18602100000",
+          "all_reviews": {
+            "reviews": [
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              }
+            ]
+          },
+          "establishment": [
+            "Quick Bites"
+          ],
+          "establishment_types": []
+        }
+      },
+      {
+        "restaurant": {
+          "R": {
+            "has_menu_status": {
+              "delivery": 1,
+              "takeaway": -1
+            },
+            "res_id": 2500055,
+            "is_grocery_store": false
+          },
+          "apikey": "6e122059d19277d79f8308ff9ad70263",
+          "id": "2500055",
+          "name": "Smile Veg Restaurant",
+          "url": "https://www.zomato.com/aurangabad/smile-veg-restaurant-nirala-bazar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "location": {
+            "address": "13-14, MP law College Campus, Samarth Nagar, Nirala Bazar, Aurangabad",
+            "locality": "Nirala Bazar",
+            "city": "Aurangabad",
+            "city_id": 25,
+            "latitude": "19.8800528251",
+            "longitude": "75.3240161017",
+            "zipcode": "",
+            "country_id": 1,
+            "locality_verbose": "Nirala Bazar, Aurangabad"
+          },
+          "switch_to_order_menu": 0,
+          "cuisines": "North Indian, South Indian, Chinese, Sandwich, Pizza, Fast Food, Desserts, Beverages",
+          "timings": "7 AM to 11 PM (Mon-Sun)",
+          "average_cost_for_two": 400,
+          "price_range": 2,
+          "currency": "Rs.",
+          "highlights": [
+            "Dinner",
+            "Cash",
+            "Lunch",
+            "Delivery",
+            "Indoor Seating",
+            "Pure Veg",
+            "Air Conditioned"
+          ],
+          "offers": [],
+          "opentable_support": 0,
+          "is_zomato_book_res": 0,
+          "mezzo_provider": "OTHER",
+          "is_book_form_web_view": 0,
+          "book_form_web_view_url": "",
+          "book_again_url": "",
+          "thumb": "https://b.zmtcdn.com/data/pictures/5/2500055/9b10c396145e915964c69362c8a9e870.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+          "user_rating": {
+            "aggregate_rating": "4.3",
+            "rating_text": "Very Good",
+            "rating_color": "5BA829",
+            "rating_obj": {
+              "title": {
+                "text": "4.3"
+              },
+              "bg_color": {
+                "type": "lime",
+                "tint": "700"
+              }
+            },
+            "votes": 10510
+          },
+          "all_reviews_count": 117,
+          "photos_url": "https://www.zomato.com/aurangabad/smile-veg-restaurant-nirala-bazar/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+          "photo_count": 27,
+          "menu_url": "https://www.zomato.com/aurangabad/smile-veg-restaurant-nirala-bazar/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+          "featured_image": "https://b.zmtcdn.com/data/pictures/5/2500055/9b10c396145e915964c69362c8a9e870.jpg",
+          "has_online_delivery": 1,
+          "is_delivering_now": 1,
+          "store_type": "",
+          "include_bogo_offers": true,
+          "deeplink": "zomato://restaurant/2500055",
+          "order_url": "https://www.zomato.com/aurangabad/smile-veg-restaurant-nirala-bazar/order?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "order_deeplink": "",
+          "is_table_reservation_supported": 0,
+          "has_table_booking": 0,
+          "events_url": "https://www.zomato.com/aurangabad/smile-veg-restaurant-nirala-bazar/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "phone_numbers": "0240 2324841",
+          "all_reviews": {
+            "reviews": [
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              }
+            ]
+          },
+          "establishment": [
+            "Quick Bites"
+          ],
+          "establishment_types": []
+        }
+      },
+      {
+        "restaurant": {
+          "R": {
+            "has_menu_status": {
+              "delivery": -1,
+              "takeaway": -1
+            },
+            "res_id": 2500034,
+            "is_grocery_store": false
+          },
+          "apikey": "6e122059d19277d79f8308ff9ad70263",
+          "id": "2500034",
+          "name": "Green Leaf",
+          "url": "https://www.zomato.com/aurangabad/green-leaf-1-chikalthana?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "location": {
+            "address": "Shop 6-9, Fame Tapadiya Multiplex, Town Centre, N-1, Chikalthana, Aurangabad",
+            "locality": "Chikalthana",
+            "city": "Aurangabad",
+            "city_id": 25,
+            "latitude": "19.8792655294",
+            "longitude": "75.3659916669",
+            "zipcode": "431001",
+            "country_id": 1,
+            "locality_verbose": "Chikalthana, Aurangabad"
+          },
+          "switch_to_order_menu": 0,
+          "cuisines": "North Indian, Chinese, Maharashtrian, Beverages",
+          "timings": "11:30am – 10:45pm (Mon-Sun)",
+          "average_cost_for_two": 750,
+          "price_range": 3,
+          "currency": "Rs.",
+          "highlights": [
+            "Takeaway Available",
+            "Lunch",
+            "Delivery",
+            "Credit Card",
+            "Dinner",
+            "Cash",
+            "Debit Card",
+            "Air Conditioned",
+            "Outdoor Seating",
+            "Pure Veg"
+          ],
+          "offers": [],
+          "opentable_support": 0,
+          "is_zomato_book_res": 0,
+          "mezzo_provider": "OTHER",
+          "is_book_form_web_view": 0,
+          "book_form_web_view_url": "",
+          "book_again_url": "",
+          "thumb": "https://b.zmtcdn.com/data/pictures/4/2500034/8354e9d8e858e4b625d48c4a115f9995.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+          "user_rating": {
+            "aggregate_rating": "4.8",
+            "rating_text": "Excellent",
+            "rating_color": "3F7E00",
+            "rating_obj": {
+              "title": {
+                "text": "4.8"
+              },
+              "bg_color": {
+                "type": "lime",
+                "tint": "800"
+              }
+            },
+            "votes": 7463
+          },
+          "all_reviews_count": 338,
+          "photos_url": "https://www.zomato.com/aurangabad/green-leaf-1-chikalthana/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+          "photo_count": 223,
+          "menu_url": "https://www.zomato.com/aurangabad/green-leaf-1-chikalthana/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+          "featured_image": "https://b.zmtcdn.com/data/pictures/4/2500034/8354e9d8e858e4b625d48c4a115f9995.jpg",
+          "has_online_delivery": 1,
+          "is_delivering_now": 0,
+          "store_type": "",
+          "include_bogo_offers": true,
+          "deeplink": "zomato://restaurant/2500034",
+          "is_table_reservation_supported": 0,
+          "has_table_booking": 0,
+          "events_url": "https://www.zomato.com/aurangabad/green-leaf-1-chikalthana/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "phone_numbers": "+91 9260500400",
+          "all_reviews": {
+            "reviews": [
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              }
+            ]
+          },
+          "establishment": [
+            "Casual Dining"
+          ],
+          "establishment_types": []
+        }
+      },
+      {
+        "restaurant": {
+          "R": {
+            "has_menu_status": {
+              "delivery": -1,
+              "takeaway": -1
+            },
+            "res_id": 2500346,
+            "is_grocery_store": false
+          },
+          "apikey": "6e122059d19277d79f8308ff9ad70263",
+          "id": "2500346",
+          "name": "Yalla Yalla",
+          "url": "https://www.zomato.com/aurangabad/yalla-yalla-usmanpura?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "location": {
+            "address": "Near Gopal Tea Corner, Usmanpura Circle, Usmanpura, Aurangabad",
+            "locality": "Usmanpura",
+            "city": "Aurangabad",
+            "city_id": 25,
+            "latitude": "19.8704161444",
+            "longitude": "75.3271888196",
+            "zipcode": "",
+            "country_id": 1,
+            "locality_verbose": "Usmanpura, Aurangabad"
+          },
+          "switch_to_order_menu": 0,
+          "cuisines": "North Indian, Hyderabadi, Biryani, Desserts, Mughlai, Kebab, Seafood, Salad",
+          "timings": "12 Noon to 11 PM",
+          "average_cost_for_two": 500,
+          "price_range": 2,
+          "currency": "Rs.",
+          "highlights": [
+            "Cash",
+            "Credit Card",
+            "No Alcohol Available",
+            "Dinner",
+            "Delivery",
+            "Debit Card",
+            "Lunch",
+            "Outdoor Seating"
+          ],
+          "offers": [],
+          "opentable_support": 0,
+          "is_zomato_book_res": 0,
+          "mezzo_provider": "OTHER",
+          "is_book_form_web_view": 0,
+          "book_form_web_view_url": "",
+          "book_again_url": "",
+          "thumb": "",
+          "user_rating": {
+            "aggregate_rating": "4.2",
+            "rating_text": "Very Good",
+            "rating_color": "5BA829",
+            "rating_obj": {
+              "title": {
+                "text": "4.2"
+              },
+              "bg_color": {
+                "type": "lime",
+                "tint": "700"
+              }
+            },
+            "votes": 5856
+          },
+          "all_reviews_count": 153,
+          "photos_url": "https://www.zomato.com/aurangabad/yalla-yalla-usmanpura/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+          "photo_count": 91,
+          "menu_url": "https://www.zomato.com/aurangabad/yalla-yalla-usmanpura/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+          "featured_image": "",
+          "has_online_delivery": 1,
+          "is_delivering_now": 0,
+          "store_type": "",
+          "include_bogo_offers": true,
+          "deeplink": "zomato://restaurant/2500346",
+          "is_table_reservation_supported": 0,
+          "has_table_booking": 0,
+          "events_url": "https://www.zomato.com/aurangabad/yalla-yalla-usmanpura/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "phone_numbers": "+91 8087698769",
+          "all_reviews": {
+            "reviews": [
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              }
+            ]
+          },
+          "establishment": [
+            "Quick Bites"
+          ],
+          "establishment_types": []
+        }
+      },
+      {
+        "restaurant": {
+          "R": {
+            "has_menu_status": {
+              "delivery": 1,
+              "takeaway": -1
+            },
+            "res_id": 2500370,
+            "is_grocery_store": false
+          },
+          "apikey": "6e122059d19277d79f8308ff9ad70263",
+          "id": "2500370",
+          "name": "McDonalds",
+          "url": "https://www.zomato.com/aurangabad/mcdonalds-chikalthana?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "location": {
+            "address": "Plot 1-B/2, Chikhalthana, Industrial Area, MIDC, Aurangabad, Chikalthana, Aurangabad",
+            "locality": "Chikalthana",
+            "city": "Aurangabad",
+            "city_id": 25,
+            "latitude": "19.8708310000",
+            "longitude": "75.3933970000",
+            "zipcode": "",
+            "country_id": 1,
+            "locality_verbose": "Chikalthana, Aurangabad"
+          },
+          "switch_to_order_menu": 0,
+          "cuisines": "Burger, Fast Food, Beverages, Cafe, Desserts",
+          "timings": "10 AM to 11 PM",
+          "average_cost_for_two": 400,
+          "price_range": 2,
+          "currency": "Rs.",
+          "highlights": [
+            "Lunch",
+            "Delivery",
+            "Credit Card",
+            "Debit Card",
+            "No Alcohol Available",
+            "Dinner",
+            "Cash",
+            "Takeaway Available",
+            "Breakfast",
+            "Indoor Seating",
+            "Air Conditioned"
+          ],
+          "offers": [],
+          "opentable_support": 0,
+          "is_zomato_book_res": 0,
+          "mezzo_provider": "OTHER",
+          "is_book_form_web_view": 0,
+          "book_form_web_view_url": "",
+          "book_again_url": "",
+          "thumb": "https://b.zmtcdn.com/data/pictures/chains/0/2500370/f871b80cf5f45159c391cb0e390d6b7b.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+          "user_rating": {
+            "aggregate_rating": "4.1",
+            "rating_text": "Very Good",
+            "rating_color": "5BA829",
+            "rating_obj": {
+              "title": {
+                "text": "4.1"
+              },
+              "bg_color": {
+                "type": "lime",
+                "tint": "700"
+              }
+            },
+            "votes": 1261
+          },
+          "all_reviews_count": 57,
+          "photos_url": "https://www.zomato.com/aurangabad/mcdonalds-chikalthana/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+          "photo_count": 69,
+          "menu_url": "https://www.zomato.com/aurangabad/mcdonalds-chikalthana/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+          "featured_image": "https://b.zmtcdn.com/data/pictures/chains/0/2500370/f871b80cf5f45159c391cb0e390d6b7b.png",
+          "has_online_delivery": 1,
+          "is_delivering_now": 1,
+          "store_type": "",
+          "include_bogo_offers": true,
+          "deeplink": "zomato://restaurant/2500370",
+          "order_url": "https://www.zomato.com/aurangabad/mcdonalds-chikalthana/order?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "order_deeplink": "",
+          "is_table_reservation_supported": 0,
+          "has_table_booking": 0,
+          "events_url": "https://www.zomato.com/aurangabad/mcdonalds-chikalthana/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "phone_numbers": "+91 8975226704",
+          "all_reviews": {
+            "reviews": [
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              }
+            ]
+          },
+          "establishment": [
+            "Quick Bites"
+          ],
+          "establishment_types": []
+        }
+      },
+      {
+        "restaurant": {
+          "R": {
+            "has_menu_status": {
+              "delivery": 1,
+              "takeaway": -1
+            },
+            "res_id": 18881994,
+            "is_grocery_store": false
+          },
+          "apikey": "6e122059d19277d79f8308ff9ad70263",
+          "id": "18881994",
+          "name": "Safa Restaurant",
+          "url": "https://www.zomato.com/aurangabad/safa-restaurant-2-shahgunj?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "location": {
+            "address": "Buddi Lane, Naralibag, Shahgunj, Aurangabad",
+            "locality": "Shahgunj",
+            "city": "Aurangabad",
+            "city_id": 25,
+            "latitude": "19.8894210000",
+            "longitude": "75.3271930000",
+            "zipcode": "",
+            "country_id": 1,
+            "locality_verbose": "Shahgunj, Aurangabad"
+          },
+          "switch_to_order_menu": 0,
+          "cuisines": "North Indian, Awadhi, Mughlai, Chinese, Biryani",
+          "timings": "10 AM to 11 PM",
+          "average_cost_for_two": 400,
+          "price_range": 2,
+          "currency": "Rs.",
+          "highlights": [
+            "Dinner",
+            "Delivery",
+            "Lunch",
+            "Cash",
+            "Takeaway Available",
+            "Indoor Seating"
+          ],
+          "offers": [],
+          "opentable_support": 0,
+          "is_zomato_book_res": 0,
+          "mezzo_provider": "OTHER",
+          "is_book_form_web_view": 0,
+          "book_form_web_view_url": "",
+          "book_again_url": "",
+          "thumb": "https://b.zmtcdn.com/data/pictures/4/18881994/eef4743922b644f7431f7349d0a8acca.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+          "user_rating": {
+            "aggregate_rating": "4.0",
+            "rating_text": "Very Good",
+            "rating_color": "5BA829",
+            "rating_obj": {
+              "title": {
+                "text": "4.0"
+              },
+              "bg_color": {
+                "type": "lime",
+                "tint": "600"
+              }
+            },
+            "votes": 16018
+          },
+          "all_reviews_count": 72,
+          "photos_url": "https://www.zomato.com/aurangabad/safa-restaurant-2-shahgunj/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+          "photo_count": 49,
+          "menu_url": "https://www.zomato.com/aurangabad/safa-restaurant-2-shahgunj/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+          "featured_image": "https://b.zmtcdn.com/data/pictures/4/18881994/eef4743922b644f7431f7349d0a8acca.jpg",
+          "has_online_delivery": 1,
+          "is_delivering_now": 1,
+          "store_type": "",
+          "include_bogo_offers": true,
+          "deeplink": "zomato://restaurant/18881994",
+          "order_url": "https://www.zomato.com/aurangabad/safa-restaurant-2-shahgunj/order?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "order_deeplink": "",
+          "is_table_reservation_supported": 0,
+          "has_table_booking": 0,
+          "events_url": "https://www.zomato.com/aurangabad/safa-restaurant-2-shahgunj/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "phone_numbers": "+91 9511224484",
+          "all_reviews": {
+            "reviews": [
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              }
+            ]
+          },
+          "establishment": [
+            "Quick Bites"
+          ],
+          "establishment_types": []
+        }
+      },
+      {
+        "restaurant": {
+          "R": {
+            "has_menu_status": {
+              "delivery": -1,
+              "takeaway": -1
+            },
+            "res_id": 2500385,
+            "is_grocery_store": false
+          },
+          "apikey": "6e122059d19277d79f8308ff9ad70263",
+          "id": "2500385",
+          "name": "Gayatri Mewad",
+          "url": "https://www.zomato.com/aurangabad/gayatri-mewad-1-usmanpura?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "location": {
+            "address": "Shop 5, Beside Samsung Care, Kranti Chowk, Paithan Gate Road, Usmanpura, Aurangabad",
+            "locality": "Usmanpura",
+            "city": "Aurangabad",
+            "city_id": 25,
+            "latitude": "19.8735630000",
+            "longitude": "75.3284169000",
+            "zipcode": "",
+            "country_id": 1,
+            "locality_verbose": "Usmanpura, Aurangabad"
+          },
+          "switch_to_order_menu": 0,
+          "cuisines": "North Indian, Biryani, Chinese, Beverages, Desserts",
+          "timings": "11 AM to 11 PM",
+          "average_cost_for_two": 400,
+          "price_range": 2,
+          "currency": "Rs.",
+          "highlights": [
+            "Credit Card",
+            "Lunch",
+            "Cash",
+            "Debit Card",
+            "No Alcohol Available",
+            "Dinner",
+            "Delivery",
+            "Indoor Seating",
+            "Digital Payments Accepted",
+            "Pure Veg",
+            "Air Conditioned"
+          ],
+          "offers": [],
+          "opentable_support": 0,
+          "is_zomato_book_res": 0,
+          "mezzo_provider": "OTHER",
+          "is_book_form_web_view": 0,
+          "book_form_web_view_url": "",
+          "book_again_url": "",
+          "thumb": "",
+          "user_rating": {
+            "aggregate_rating": "4.4",
+            "rating_text": "Very Good",
+            "rating_color": "5BA829",
+            "rating_obj": {
+              "title": {
+                "text": "4.4"
+              },
+              "bg_color": {
+                "type": "lime",
+                "tint": "700"
+              }
+            },
+            "votes": 10537
+          },
+          "all_reviews_count": 67,
+          "photos_url": "https://www.zomato.com/aurangabad/gayatri-mewad-1-usmanpura/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+          "photo_count": 16,
+          "menu_url": "https://www.zomato.com/aurangabad/gayatri-mewad-1-usmanpura/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+          "featured_image": "",
+          "has_online_delivery": 1,
+          "is_delivering_now": 0,
+          "store_type": "",
+          "include_bogo_offers": true,
+          "deeplink": "zomato://restaurant/2500385",
+          "is_table_reservation_supported": 0,
+          "has_table_booking": 0,
+          "events_url": "https://www.zomato.com/aurangabad/gayatri-mewad-1-usmanpura/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "phone_numbers": "+91 9152639731, +91 9028333358",
+          "all_reviews": {
+            "reviews": [
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              }
+            ]
+          },
+          "establishment": [
+            "Quick Bites"
+          ],
+          "establishment_types": []
+        }
+      },
+      {
+        "restaurant": {
+          "R": {
+            "has_menu_status": {
+              "delivery": -1,
+              "takeaway": -1
+            },
+            "res_id": 2500969,
+            "is_grocery_store": false
+          },
+          "apikey": "6e122059d19277d79f8308ff9ad70263",
+          "id": "2500969",
+          "name": "Mustafa's Dum Biryani",
+          "url": "https://www.zomato.com/aurangabad/mustafas-dum-biryani-cidco?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "location": {
+            "address": "2, Disha Alankar, Behind Naik College, Opposite Johnson And Johnson Tiles, Cannought, CIDCO, Aurangabad",
+            "locality": "CIDCO",
+            "city": "Aurangabad",
+            "city_id": 25,
+            "latitude": "19.8764464299",
+            "longitude": "75.3639840335",
+            "zipcode": "",
+            "country_id": 1,
+            "locality_verbose": "CIDCO, Aurangabad"
+          },
+          "switch_to_order_menu": 0,
+          "cuisines": "Biryani",
+          "timings": "11 AM to 11 PM",
+          "average_cost_for_two": 300,
+          "price_range": 1,
+          "currency": "Rs.",
+          "highlights": [
+            "Dinner",
+            "Takeaway Available",
+            "Cash",
+            "Lunch",
+            "Indoor Seating",
+            "Digital Payments Accepted"
+          ],
+          "offers": [],
+          "opentable_support": 0,
+          "is_zomato_book_res": 0,
+          "mezzo_provider": "OTHER",
+          "is_book_form_web_view": 0,
+          "book_form_web_view_url": "",
+          "book_again_url": "",
+          "thumb": "",
+          "user_rating": {
+            "aggregate_rating": "4.3",
+            "rating_text": "Very Good",
+            "rating_color": "5BA829",
+            "rating_obj": {
+              "title": {
+                "text": "4.3"
+              },
+              "bg_color": {
+                "type": "lime",
+                "tint": "700"
+              }
+            },
+            "votes": 1070
+          },
+          "all_reviews_count": 68,
+          "photos_url": "https://www.zomato.com/aurangabad/mustafas-dum-biryani-cidco/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+          "photo_count": 11,
+          "menu_url": "https://www.zomato.com/aurangabad/mustafas-dum-biryani-cidco/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+          "featured_image": "",
+          "has_online_delivery": 0,
+          "is_delivering_now": 0,
+          "store_type": "",
+          "include_bogo_offers": true,
+          "deeplink": "zomato://restaurant/2500969",
+          "is_table_reservation_supported": 0,
+          "has_table_booking": 0,
+          "events_url": "https://www.zomato.com/aurangabad/mustafas-dum-biryani-cidco/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "phone_numbers": "+91 9579999740",
+          "all_reviews": {
+            "reviews": [
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              }
+            ]
+          },
+          "establishment": [
+            "Quick Bites"
+          ],
+          "establishment_types": []
+        }
+      },
+      {
+        "restaurant": {
+          "R": {
+            "has_menu_status": {
+              "delivery": -1,
+              "takeaway": -1
+            },
+            "res_id": 2500672,
+            "is_grocery_store": false
+          },
+          "apikey": "6e122059d19277d79f8308ff9ad70263",
+          "id": "2500672",
+          "name": "SNT Tahari House",
+          "url": "https://www.zomato.com/aurangabad/snt-tahari-house-1-mondha?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "location": {
+            "address": "Madina Complex, Roshan Gate, Kaiser Colony, Mondha, Aurangabad",
+            "locality": "Mondha",
+            "city": "Aurangabad",
+            "city_id": 25,
+            "latitude": "19.8877520000",
+            "longitude": "75.3440849000",
+            "zipcode": "",
+            "country_id": 1,
+            "locality_verbose": "Mondha, Aurangabad"
+          },
+          "switch_to_order_menu": 0,
+          "cuisines": "Maharashtrian, Biryani, Mughlai, North Indian",
+          "timings": "11 AM to 11 PM",
+          "average_cost_for_two": 400,
+          "price_range": 2,
+          "currency": "Rs.",
+          "highlights": [
+            "Delivery",
+            "No Alcohol Available",
+            "Dinner",
+            "Takeaway Available",
+            "Lunch",
+            "Cash",
+            "Indoor Seating"
+          ],
+          "offers": [],
+          "opentable_support": 0,
+          "is_zomato_book_res": 0,
+          "mezzo_provider": "OTHER",
+          "is_book_form_web_view": 0,
+          "book_form_web_view_url": "",
+          "book_again_url": "",
+          "thumb": "https://b.zmtcdn.com/data/pictures/2/2500672/2b7f316506b157e1e60ee68fe8ed0b64.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+          "user_rating": {
+            "aggregate_rating": "4.4",
+            "rating_text": "Very Good",
+            "rating_color": "5BA829",
+            "rating_obj": {
+              "title": {
+                "text": "4.4"
+              },
+              "bg_color": {
+                "type": "lime",
+                "tint": "700"
+              }
+            },
+            "votes": 12553
+          },
+          "all_reviews_count": 49,
+          "photos_url": "https://www.zomato.com/aurangabad/snt-tahari-house-1-mondha/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+          "photo_count": 9,
+          "menu_url": "https://www.zomato.com/aurangabad/snt-tahari-house-1-mondha/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+          "featured_image": "https://b.zmtcdn.com/data/pictures/2/2500672/2b7f316506b157e1e60ee68fe8ed0b64.jpg",
+          "has_online_delivery": 1,
+          "is_delivering_now": 0,
+          "store_type": "",
+          "include_bogo_offers": true,
+          "deeplink": "zomato://restaurant/2500672",
+          "is_table_reservation_supported": 0,
+          "has_table_booking": 0,
+          "events_url": "https://www.zomato.com/aurangabad/snt-tahari-house-1-mondha/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "phone_numbers": "+91 9975770202",
+          "all_reviews": {
+            "reviews": [
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              }
+            ]
+          },
+          "establishment": [
+            "Quick Bites"
+          ],
+          "establishment_types": []
+        }
+      },
+      {
+        "restaurant": {
+          "R": {
+            "has_menu_status": {
+              "delivery": -1,
+              "takeaway": -1
+            },
+            "res_id": 18969387,
+            "is_grocery_store": false
+          },
+          "apikey": "6e122059d19277d79f8308ff9ad70263",
+          "id": "18969387",
+          "name": "Zabis Ismail Restaurant",
+          "url": "https://www.zomato.com/aurangabad/zabis-ismail-restaurant-shahgunj?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "location": {
+            "address": "CTS 3440, Nawaj Plaza, Juna Bazar, Buddhilen, Shahgunj, Aurangabad",
+            "locality": "Shahgunj",
+            "city": "Aurangabad",
+            "city_id": 25,
+            "latitude": "19.8895554000",
+            "longitude": "75.3271421000",
+            "zipcode": "",
+            "country_id": 1,
+            "locality_verbose": "Shahgunj, Aurangabad"
+          },
+          "switch_to_order_menu": 0,
+          "cuisines": "North Indian, Mughlai, Chinese",
+          "timings": "10am – 11pm (Mon-Sun)",
+          "average_cost_for_two": 500,
+          "price_range": 2,
+          "currency": "Rs.",
+          "highlights": [
+            "Dinner",
+            "Lunch",
+            "Takeaway Available",
+            "Cash",
+            "Delivery",
+            "Indoor Seating"
+          ],
+          "offers": [],
+          "opentable_support": 0,
+          "is_zomato_book_res": 0,
+          "mezzo_provider": "OTHER",
+          "is_book_form_web_view": 0,
+          "book_form_web_view_url": "",
+          "book_again_url": "",
+          "thumb": "https://b.zmtcdn.com/data/pictures/7/18969387/1cef3bff2c4c8d4f06b3fb683af3338b.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+          "user_rating": {
+            "aggregate_rating": "4.2",
+            "rating_text": "Very Good",
+            "rating_color": "5BA829",
+            "rating_obj": {
+              "title": {
+                "text": "4.2"
+              },
+              "bg_color": {
+                "type": "lime",
+                "tint": "700"
+              }
+            },
+            "votes": 11816
+          },
+          "all_reviews_count": 70,
+          "photos_url": "https://www.zomato.com/aurangabad/zabis-ismail-restaurant-shahgunj/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+          "photo_count": 7,
+          "menu_url": "https://www.zomato.com/aurangabad/zabis-ismail-restaurant-shahgunj/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+          "featured_image": "https://b.zmtcdn.com/data/pictures/7/18969387/1cef3bff2c4c8d4f06b3fb683af3338b.jpg?output-format=webp",
+          "has_online_delivery": 1,
+          "is_delivering_now": 0,
+          "store_type": "",
+          "include_bogo_offers": true,
+          "deeplink": "zomato://restaurant/18969387",
+          "is_table_reservation_supported": 0,
+          "has_table_booking": 0,
+          "events_url": "https://www.zomato.com/aurangabad/zabis-ismail-restaurant-shahgunj/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "phone_numbers": "+91 9881711117",
+          "all_reviews": {
+            "reviews": [
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              }
+            ]
+          },
+          "establishment": [
+            "Quick Bites"
+          ],
+          "establishment_types": []
+        }
+      },
+      {
+        "restaurant": {
+          "R": {
+            "has_menu_status": {
+              "delivery": -1,
+              "takeaway": -1
+            },
+            "res_id": 18783474,
+            "is_grocery_store": false
+          },
+          "apikey": "6e122059d19277d79f8308ff9ad70263",
+          "id": "18783474",
+          "name": "New Sagar Restaurant",
+          "url": "https://www.zomato.com/aurangabad/new-sagar-restaurant-nirala-bazar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "location": {
+            "address": "Rauf Colony, Buddi lane, Naralibag, Near Shahgunj, Aurangabad, Nirala Bazar, Aurangabad",
+            "locality": "Nirala Bazar",
+            "city": "Aurangabad",
+            "city_id": 25,
+            "latitude": "19.8884080000",
+            "longitude": "75.3274840000",
+            "zipcode": "",
+            "country_id": 1,
+            "locality_verbose": "Nirala Bazar, Aurangabad"
+          },
+          "switch_to_order_menu": 0,
+          "cuisines": "North Indian, Chinese, South Indian, Biryani, Maharashtrian, Mughlai, Street Food",
+          "timings": "8 AM to 11 PM",
+          "average_cost_for_two": 650,
+          "price_range": 2,
+          "currency": "Rs.",
+          "highlights": [
+            "Dinner",
+            "Delivery",
+            "Lunch",
+            "Cash",
+            "Takeaway Available",
+            "Indoor Seating"
+          ],
+          "offers": [],
+          "opentable_support": 0,
+          "is_zomato_book_res": 0,
+          "mezzo_provider": "OTHER",
+          "is_book_form_web_view": 0,
+          "book_form_web_view_url": "",
+          "book_again_url": "",
+          "thumb": "https://b.zmtcdn.com/data/pictures/4/18783474/b6db953774c3e0e28a072fc61de8ee28.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+          "user_rating": {
+            "aggregate_rating": "4.0",
+            "rating_text": "Very Good",
+            "rating_color": "5BA829",
+            "rating_obj": {
+              "title": {
+                "text": "4.0"
+              },
+              "bg_color": {
+                "type": "lime",
+                "tint": "600"
+              }
+            },
+            "votes": 8121
+          },
+          "all_reviews_count": 38,
+          "photos_url": "https://www.zomato.com/aurangabad/new-sagar-restaurant-nirala-bazar/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+          "photo_count": 24,
+          "menu_url": "https://www.zomato.com/aurangabad/new-sagar-restaurant-nirala-bazar/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+          "featured_image": "https://b.zmtcdn.com/data/pictures/4/18783474/b6db953774c3e0e28a072fc61de8ee28.jpg?output-format=webp",
+          "has_online_delivery": 1,
+          "is_delivering_now": 0,
+          "store_type": "",
+          "include_bogo_offers": true,
+          "deeplink": "zomato://restaurant/18783474",
+          "is_table_reservation_supported": 0,
+          "has_table_booking": 0,
+          "events_url": "https://www.zomato.com/aurangabad/new-sagar-restaurant-nirala-bazar/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "phone_numbers": "+91 7066557745",
+          "all_reviews": {
+            "reviews": [
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              }
+            ]
+          },
+          "establishment": [
+            "Quick Bites"
+          ],
+          "establishment_types": []
+        }
+      },
+      {
+        "restaurant": {
+          "R": {
+            "has_menu_status": {
+              "delivery": 1,
+              "takeaway": -1
+            },
+            "res_id": 2500323,
+            "is_grocery_store": false
+          },
+          "apikey": "6e122059d19277d79f8308ff9ad70263",
+          "id": "2500323",
+          "name": "Icy Spicy",
+          "url": "https://www.zomato.com/aurangabad/icy-spicy-cidco?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "location": {
+            "address": "Mini Shop No. 65-66, Cannought Garden, CIDCO Cannought, Cidco, Aurangabad",
+            "locality": "CIDCO",
+            "city": "Aurangabad",
+            "city_id": 25,
+            "latitude": "19.8785470000",
+            "longitude": "75.3640930000",
+            "zipcode": "",
+            "country_id": 1,
+            "locality_verbose": "CIDCO, Aurangabad"
+          },
+          "switch_to_order_menu": 0,
+          "cuisines": "Street Food, Beverages, Desserts",
+          "timings": "12 Noon to 11 PM (Mon-Sun)",
+          "average_cost_for_two": 750,
+          "price_range": 3,
+          "currency": "Rs.",
+          "highlights": [
+            "Dinner",
+            "Cash",
+            "Takeaway Available",
+            "Lunch",
+            "Delivery",
+            "Outdoor Seating",
+            "Digital Payments Accepted",
+            "Pure Veg"
+          ],
+          "offers": [],
+          "opentable_support": 0,
+          "is_zomato_book_res": 0,
+          "mezzo_provider": "OTHER",
+          "is_book_form_web_view": 0,
+          "book_form_web_view_url": "",
+          "book_again_url": "",
+          "thumb": "https://b.zmtcdn.com/data/pictures/3/2500323/c3796c6254c1914b8767296dbd4b31d6.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+          "user_rating": {
+            "aggregate_rating": "4.1",
+            "rating_text": "Very Good",
+            "rating_color": "5BA829",
+            "rating_obj": {
+              "title": {
+                "text": "4.1"
+              },
+              "bg_color": {
+                "type": "lime",
+                "tint": "700"
+              }
+            },
+            "votes": 4297
+          },
+          "all_reviews_count": 79,
+          "photos_url": "https://www.zomato.com/aurangabad/icy-spicy-cidco/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+          "photo_count": 55,
+          "menu_url": "https://www.zomato.com/aurangabad/icy-spicy-cidco/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+          "featured_image": "https://b.zmtcdn.com/data/pictures/3/2500323/c3796c6254c1914b8767296dbd4b31d6.jpg",
+          "has_online_delivery": 1,
+          "is_delivering_now": 1,
+          "store_type": "",
+          "include_bogo_offers": true,
+          "deeplink": "zomato://restaurant/2500323",
+          "order_url": "https://www.zomato.com/aurangabad/icy-spicy-cidco/order?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "order_deeplink": "",
+          "is_table_reservation_supported": 0,
+          "has_table_booking": 0,
+          "events_url": "https://www.zomato.com/aurangabad/icy-spicy-cidco/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "phone_numbers": "+91 9503565265, +91 9423231727",
+          "all_reviews": {
+            "reviews": [
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              }
+            ]
+          },
+          "establishment": [
+            "Casual Dining"
+          ],
+          "establishment_types": []
+        }
+      },
+      {
+        "restaurant": {
+          "R": {
+            "has_menu_status": {
+              "delivery": -1,
+              "takeaway": -1
+            },
+            "res_id": 2500654,
+            "is_grocery_store": false
+          },
+          "apikey": "6e122059d19277d79f8308ff9ad70263",
+          "id": "2500654",
+          "name": "Sagar Restaurant",
+          "url": "https://www.zomato.com/aurangabad/sagar-restaurant-shahgunj?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "location": {
+            "address": "Buddi Lane, Nirala bag, Shahgunj, Aurangabad",
+            "locality": "Shahgunj",
+            "city": "Aurangabad",
+            "city_id": 25,
+            "latitude": "19.8898333000",
+            "longitude": "75.3273759000",
+            "zipcode": "",
+            "country_id": 1,
+            "locality_verbose": "Shahgunj, Aurangabad"
+          },
+          "switch_to_order_menu": 0,
+          "cuisines": "North Indian, Chinese",
+          "timings": "12 Noon to 11 PM",
+          "average_cost_for_two": 600,
+          "price_range": 2,
+          "currency": "Rs.",
+          "highlights": [
+            "Cash",
+            "Lunch",
+            "Dinner",
+            "Delivery",
+            "Takeaway Available",
+            "Breakfast",
+            "Indoor Seating"
+          ],
+          "offers": [],
+          "opentable_support": 0,
+          "is_zomato_book_res": 0,
+          "mezzo_provider": "OTHER",
+          "is_book_form_web_view": 0,
+          "book_form_web_view_url": "",
+          "book_again_url": "",
+          "thumb": "https://b.zmtcdn.com/data/pictures/chains/4/2500654/62fedd4ea973213aec968d08f747ce28.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+          "user_rating": {
+            "aggregate_rating": "3.9",
+            "rating_text": "Good",
+            "rating_color": "9ACD32",
+            "rating_obj": {
+              "title": {
+                "text": "3.9"
+              },
+              "bg_color": {
+                "type": "lime",
+                "tint": "600"
+              }
+            },
+            "votes": 9290
+          },
+          "all_reviews_count": 51,
+          "photos_url": "https://www.zomato.com/aurangabad/sagar-restaurant-shahgunj/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+          "photo_count": 11,
+          "menu_url": "https://www.zomato.com/aurangabad/sagar-restaurant-shahgunj/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+          "featured_image": "https://b.zmtcdn.com/data/pictures/chains/4/2500654/62fedd4ea973213aec968d08f747ce28.jpg?output-format=webp",
+          "has_online_delivery": 1,
+          "is_delivering_now": 0,
+          "store_type": "",
+          "include_bogo_offers": true,
+          "deeplink": "zomato://restaurant/2500654",
+          "is_table_reservation_supported": 0,
+          "has_table_booking": 0,
+          "events_url": "https://www.zomato.com/aurangabad/sagar-restaurant-shahgunj/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "phone_numbers": "+91 9890888521",
+          "all_reviews": {
+            "reviews": [
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              }
+            ]
+          },
+          "establishment": [
+            "Casual Dining"
+          ],
+          "establishment_types": []
+        }
+      },
+      {
+        "restaurant": {
+          "R": {
+            "has_menu_status": {
+              "delivery": 1,
+              "takeaway": -1
+            },
+            "res_id": 2500023,
+            "is_grocery_store": false
+          },
+          "apikey": "6e122059d19277d79f8308ff9ad70263",
+          "id": "2500023",
+          "name": "Kream N Krunch",
+          "url": "https://www.zomato.com/aurangabad/kream-n-krunch-mondha?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "location": {
+            "address": "2, Near Akashwani Circle, Mahesh Nagar, Jalna Road, Mondha, Aurangabad",
+            "locality": "Mondha",
+            "city": "Aurangabad",
+            "city_id": 25,
+            "latitude": "19.8766488543",
+            "longitude": "75.3461198509",
+            "zipcode": "",
+            "country_id": 1,
+            "locality_verbose": "Mondha, Aurangabad"
+          },
+          "switch_to_order_menu": 0,
+          "cuisines": "North Indian, Chinese, Continental, Italian",
+          "timings": "11 AM to 11 PM (Mon-Sun)",
+          "average_cost_for_two": 1000,
+          "price_range": 3,
+          "currency": "Rs.",
+          "highlights": [
+            "Lunch",
+            "Serves Alcohol",
+            "Delivery",
+            "Breakfast",
+            "Dinner",
+            "Credit Card",
+            "Fullbar",
+            "Outdoor Seating",
+            "Air Conditioned"
+          ],
+          "offers": [],
+          "opentable_support": 0,
+          "is_zomato_book_res": 0,
+          "mezzo_provider": "OTHER",
+          "is_book_form_web_view": 0,
+          "book_form_web_view_url": "",
+          "book_again_url": "",
+          "thumb": "https://b.zmtcdn.com/data/res_imagery/2500023_RESTAURANT_8422be2a05338a5038c02df972103ed7_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+          "user_rating": {
+            "aggregate_rating": "4.1",
+            "rating_text": "Very Good",
+            "rating_color": "5BA829",
+            "rating_obj": {
+              "title": {
+                "text": "4.1"
+              },
+              "bg_color": {
+                "type": "lime",
+                "tint": "700"
+              }
+            },
+            "votes": 1625
+          },
+          "all_reviews_count": 175,
+          "photos_url": "https://www.zomato.com/aurangabad/kream-n-krunch-mondha/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+          "photo_count": 210,
+          "menu_url": "https://www.zomato.com/aurangabad/kream-n-krunch-mondha/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+          "featured_image": "https://b.zmtcdn.com/data/res_imagery/2500023_RESTAURANT_8422be2a05338a5038c02df972103ed7_c.jpg",
+          "has_online_delivery": 1,
+          "is_delivering_now": 1,
+          "store_type": "",
+          "include_bogo_offers": true,
+          "deeplink": "zomato://restaurant/2500023",
+          "order_url": "https://www.zomato.com/aurangabad/kream-n-krunch-mondha/order?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "order_deeplink": "",
+          "is_table_reservation_supported": 0,
+          "has_table_booking": 0,
+          "events_url": "https://www.zomato.com/aurangabad/kream-n-krunch-mondha/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "phone_numbers": "0240 2322147",
+          "all_reviews": {
+            "reviews": [
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              },
+              {
+                "review": []
+              }
+            ]
+          },
+          "establishment": [
+            "Casual Dining"
+          ],
+          "establishment_types": []
+        }
+      }
+    ]
+  }
